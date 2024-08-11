@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'VT323';
+    src: url('../fonts/VT323.ttf');
+}
+* {
+    text-decoration: none;
+    text-decoration-color: green;
+    text-decoration-line: none;
+}
+a {
+    color: green;
+}
+body {
+    background-color: black;
+}
+
+.title {
+    color: green;
+    font-family: 'VT323';
+    font-size: 52pt;
+    text-align: center;
+}
+
+.subject1 {
+    color: green;
+    font-family: 'VT323';
+    font-size: 32pt;
+    text-align: center;
+}
